@@ -2,52 +2,41 @@ Our weekly progress will be documented here:
 
 ## Week 1:
 #### Goal:
-* 
-#### Plan:
-* 
+* (Together): Setting up the project
 
 
 ## Week 2:
 #### Goal:
-*
-#### Plan:
-*
+* (Vincent): Basic implementation of gRPC with Protobuf
+* (Adam):    Find some things to implement in the project
+
 
 ## Week 3:
 #### Goal:
-*
-#### Plan:
 *
 
 
 ## Week 4:
 #### Goal:
 *
-#### Plan:
-*
 
 
 ## Week 5:
 #### Goal:
 *
-#### Plan:
-*
+
 
 ## Week 6:
 #### Goal:
 *
-#### Plan:
-*
+
 
 
 ## Week 7:
 #### Goal:
 *
-#### Plan:
-* 
+
 
 ## Week 8:
 #### Goal:
 *
-#### Plan:
-* 
